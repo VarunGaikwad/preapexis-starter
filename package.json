@@ -1,6 +1,6 @@
 {
-  "name": "preapexis-ui",
-  "version": "1.1.2",
+  "name": "preapexis-starter",
+  "version": "1.1.3",
   "description": "CLI to create a Vite + React + SWC + TypeScript project with Tailwind CSS configured.",
   "type": "module",
   "files": [
@@ -9,7 +9,7 @@
     "sample/"
   ],
   "bin": {
-    "preapexis-ui": "index.js"
+    "preapexis-starter": "index.js"
   },
   "scripts": {
     "start": "node index.js"
