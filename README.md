@@ -12,7 +12,7 @@ Tailwind CSS: A utility-first CSS framework for rapid UI development.
 Installation
 You can use npx to run the package without installing it globally:
 
-`npx preapexis-ui@latest`
+`npx preapexis-starter@latest`
 
 Replace my-new-project with your desired project name.
 
