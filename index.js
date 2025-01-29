@@ -11,8 +11,8 @@ const __filename = fileURLToPath(import.meta.url),
   log = console.log,
   { argv, cwd, exit, stdin, stdout } = process,
   currentPath = cwd(),
-  typescriptReact = path.join(__dirname, "typescriptReact"),
-  javascriptReact = path.join(__dirname, "javascriptReact");
+  typescriptReact = path.join(__dirname, "ts_react"),
+  javascriptReact = path.join(__dirname, "js_react");
 
 const rl = readline.createInterface({
   input: stdin,

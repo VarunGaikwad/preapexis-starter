@@ -6,8 +6,8 @@
   "files": [
     "index.js",
     "util/util.js",
-    "javascriptReact/",
-    "typescriptReact/"
+    "js_react/",
+    "ts_react/"
   ],
   "bin": {
     "preapexis-starter": "index.js"
